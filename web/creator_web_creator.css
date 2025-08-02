@@ -1,0 +1,8 @@
+body { background: rgba(0,0,0,0.8); color: #fff; font-family:sans-serif;}
+#creatorUI { width: 700px; margin: 30px auto; background: #181818; padding: 24px; border-radius: 12px; }
+h2 { text-align: center; }
+button { background: #7e22ce; color: #fff; border: none; padding: 10px 16px; border-radius: 5px; margin: 4px; cursor:pointer; }
+input, select { padding: 6px; margin: 2px; border-radius: 5px; border: none; }
+#markets { margin-top: 20px; }
+.market { background: #282828; margin-bottom: 12px; padding: 12px; border-radius: 8px; }
+#editMarket { background: #232323; padding: 16px; margin: 12px 0; border-radius: 10px; }
